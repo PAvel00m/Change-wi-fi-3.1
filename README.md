@@ -5,4 +5,4 @@
 
 ВНИМАНИЕ! роутер должен находиться в одной сети с компьютером с которго запускается программа.
 
-[https://github.com/PAvel00m/Change-wi-fi-3.1/1.jpg]
+(https://github.com/PAvel00m/Change-wi-fi-3.1/1.jpg)
