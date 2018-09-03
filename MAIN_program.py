@@ -3,8 +3,6 @@ import os
 import subprocess
 from PyQt4 import QtGui
 import sys
-import urllib3, queue, bcrypt, _cffi_backend
-import crypto
 
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
